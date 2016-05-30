@@ -5,11 +5,9 @@ linha 3
 linha 4
 linha 5
 linha 6
-
+teste de conflito agora
 novas linhas
 novas linhas 8
 novas linhas 2
 novas linhas 5
 comentário qualquer aqui também
-
-teste de conflito agora
