@@ -11,3 +11,5 @@ novas linhas 8
 novas linhas 2
 novas linhas 5
 comentário qualquer aqui também
+
+teste de conflito agora
